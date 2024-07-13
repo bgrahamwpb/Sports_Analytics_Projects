@@ -26,17 +26,26 @@ documentation.csv: Definitions of the columns in the dataset.
 
 
 **Prerequisites**
-Python 3.x
-Jupyter Notebook
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+-Python 3.x
+
+-Jupyter Notebook
+
+-pandas
+
+-numpy
+
+-matplotlib
+
+-seaborn
+
+-scikit-learn
 
 **Usage**
+
 Ensure you have Python and Jupyter Notebook installed.
+
 Run the script swing_probability_analysis.py to preprocess the data and train the model.
+
 Open swing_probability_analysis.ipynb to explore the analysis and visualizations.
 
 **Methodology**
