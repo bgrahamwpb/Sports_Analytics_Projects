@@ -17,9 +17,9 @@ This repository contains a data science project focused on predicting swing prob
 
 -validation.csv: Dataset with appended swing probabilities for the third season.
 
--swing_probability_modeling_final.py: Script used for data preprocessing, model training, and predictions.
+-swing_probability_modeling_final.py: Script used for data preprocessing, model training,   and predictions.
 
--swing_probability_modeling_final.ipynb: Jupyter Notebook containing the analysis, visualizations, and model evaluation.
+-swing_probability_modeling_final.ipynb: Jupyter Notebook containing the analysis,  visualizations, and model evaluation.
 
 -writeup.pdf: Detailed methodology and assumptions.
 
