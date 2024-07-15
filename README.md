@@ -54,7 +54,7 @@ Python 3.x, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn
 
 4. Explore the Jupyter Notebook
 
-         Open swing_probability_modeling_final.ipynb in Jupyter Notebook to explore the    analysis and visualizations.
+         Open swing_probability_modeling_final.ipynb in Jupyter Notebook
 
 
 
