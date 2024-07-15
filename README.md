@@ -31,53 +31,31 @@ This repository contains a data science project focused on predicting swing prob
 
 **Prerequisites**
 
-Python 3.x
+Python 3.x, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn
 
-Jupyter Notebook
 
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-scikit-learn
 
 **Usage**
 
-Clone the Repository:
+1. Clone the Repository:
 
--bash
+         git clone https://github.com/bgrahamwpb/Sports_Analytics_Projects.git
 
--Copy code
-
--git clone https://github.com/your-username/Sports_Analytics_Projects.git
-
--cd Sports_Analytics_Projects
-
-Install Dependencies:
-
--bash
-
--Copy code
-
--pip install pandas numpy matplotlib seaborn scikit-learn
+         cd Sports_Analytics_Projects
 
 
+2. Install Dependencies
 
-Run the Script:
+         pip install pandas, numpy, matplotlib, seaborn, scikit-learn
 
--bash
+3. Run the Script
 
--Copy code
+         python swing_probability_modeling_final.py
 
--python swing_probability_modeling_final.py
+4. Explore the Jupyter Notebook
 
--Explore the Jupyter Notebook:
+         Open swing_probability_modeling_final.ipynb in Jupyter Notebook to explore the    analysis and visualizations.
 
--Open swing_probability_modeling_final.ipynb in Jupyter Notebook to explore the analysis and visualizations.
 
 
 
