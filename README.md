@@ -5,6 +5,8 @@
 
 This repository contains a data science project focused on predicting swing probabilities for pitches in baseball games. The dataset comprises information from approximately 2,000,000 pitches over three seasons. The primary goal is to predict swing probabilities for pitches in the third season of the dataset, which lacks the description column indicating swing events.
 
+
+
 **Repository Contents**
 
 -year1.csv: Dataset for the first season.
@@ -24,6 +26,8 @@ This repository contains a data science project focused on predicting swing prob
 -swing_probabilities_plots.pdf: Visualizations of swing probabilities.
 
 -documentation.csv: Definitions of the columns in the dataset.
+
+
 
 **Prerequisites**
 
@@ -61,6 +65,8 @@ Install Dependencies:
 
 -pip install pandas numpy matplotlib seaborn scikit-learn
 
+
+
 Run the Script:
 
 -bash
@@ -73,9 +79,13 @@ Run the Script:
 
 -Open swing_probability_modeling_final.ipynb in Jupyter Notebook to explore the analysis and visualizations.
 
+
+
 **Methodology**
 
 Detailed methodology, feature engineering, model training, and evaluation processes are described in writeup.pdf.
+
+
 
 **Visualizations**
 
